@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JoeOsG/testcomfyjs/issues"
   },
-  "homepage": "https://github.com/JoeOsG/testcomfyjs#readme"
+  "homepage": "https://github.com/JoeOsG/testcomfyjs#readme",
+  "dependencies": {
+    "comfy.js": "^1.1.16"
+  }
 }
